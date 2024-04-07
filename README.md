@@ -1,1 +1,1 @@
-This repository contains a variety of screenshots with notes for context. A majority of these files will show some work I've completed in VS Code and other virtutal environments such as Azure via cloud computing.
+This repository contains a variety of screenshots with notes for context. A majority of these files will show some work I've completed in VS Code and other virtual environments such as Azure portal via cloud computing.
